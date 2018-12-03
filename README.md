@@ -1,6 +1,6 @@
 # Project 9 - Honeypot 
 
-- Time spent: **20** hours spent in total
+- Time spent: **30** hours spent in total
 
 - Honeypot deployed:
   - Dionaea with HTTP
