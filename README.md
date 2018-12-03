@@ -9,7 +9,7 @@
 - Had touble accessing the admin page
 - Could not download json file
   <img src='error.gif' title='Error' />
-- had trouble navigating Google Cloud Interface
+- Had trouble navigating Google Cloud Interface
 
 ## Summary of the Data Collected
 - What we did
